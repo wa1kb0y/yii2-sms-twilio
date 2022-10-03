@@ -1,6 +1,6 @@
 # Yii2 SMS Twilio
 
-A Twilio SMS plugin for Yii2 based off my base package, [Yii2 SMS](https://github.com/walkboy/yii2-sms), to make sending SMS messages as easy as emails!
+A Twilio SMS plugin for Yii2 based on base package, [Yii2 SMS](https://github.com/wa1kb0y/yii2-sms), to make sending SMS messages as easy as emails!
 
 This package originaly was created by [@WadeShuler](https://github.com/WadeShuler/) but author removed it from Github and abandoned package maintenance.
 
